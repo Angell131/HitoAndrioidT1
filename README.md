@@ -17,18 +17,18 @@ puede ser la compra de un producto, una solicitud de servicio, comunicar una inc
 de IT...
 El resultado del citado trámite, una vez registrado, deberá ser comunicado al usuario.
 El desarrollo de la aplicación consta de varias fases:
-#Fase 1.
+## Fase 1.
 En este primer paso, se pide el diseño y elección de elementos visuales así como librerías a utilizar en el
 proyecto. Determinar qué entorno de desarrollo utilizaremos y sus versiones más adecuadas. Deberemos
 definir qué librerías decidimos utilizar y su razonamiento. En esta fase nos dedicamos a la creación de las
 diferentes pantallas en Android debiendo decidir qué layouts son los más adecuados para la navegación.
-#Fase 2.
+## Fase 2.
 A continuación, nos dedicamos a la elaboración más en profundidad de las pantallas realizadas y, lo más
 importante, añadir su funcionalidad con Java / Kotlin. Trabajar con eventos, programación orientada a
 objetos, cookies y/o sesiones. El trámite deberá ser almacenado de manera persistente y deberemos
 elegir cómo hacerlo. Explicar e implementar si fuera necesario aportes de programación funcional,
 reactiva y asíncrona.
-#Fase 3.
+## Fase 3.
 Para finalizar, realizamos las pruebas pertinentes de la aplicación y control de excepciones. Validación de
 campos y añadir seguridad en las comunicaciones. Debemos evaluar la implementación de la aplicación
 en base a la petición recibida inicialmente por el cliente. Es muy importante realizar un “feedback” de
